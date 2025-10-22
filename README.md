@@ -1,16 +1,62 @@
-# login_app
+# Login UI Custom - Flutter
 
-A new Flutter project.
+Aplikasi login sederhana dengan desain custom menggunakan Flutter dan Dart.
 
-## Getting Started
+## 📱 Fitur
+- ✅ Login UI dengan tema Teal
+- ✅ Font custom menggunakan Google Fonts (Poppins)
+- ✅ Validasi login
+- ✅ Navigasi ke halaman home
+- ✅ Tombol logout
+- ✅ Notifikasi error dengan SnackBar
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+### Login Page
+![Login Page](screenshots/login.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home Page
+![Home Page](screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Cara Menjalankan
+
+1. Clone repository ini:
+```bash
+git clone https://github.com/galihr15/login-ui-flutter.git
+```
+
+2. Masuk ke folder project:
+```bash
+cd login-ui-flutter
+```
+
+3. Install dependencies:
+```bash
+flutter pub get
+```
+
+4. Jalankan aplikasi:
+```bash
+flutter run
+```
+
+## 🔐 Kredensial Login
+- **Username**: admin
+- **Password**: 1234
+
+## 🛠️ Teknologi
+- Flutter
+- Dart
+- Google Fonts (Poppins)
+
+## 👥 Anggota Kelompok
+- Galih Rahayu
+- Ihsan Mubarox
+- Bayu Prasetyo
+- Taufik Irfan Septian
+
+## 📝 Tugas
+Tugas Pemrograman Mobile - Membuat Login UI Custom
+
+---
+⭐ Jika bermanfaat, berikan star pada repository ini!
