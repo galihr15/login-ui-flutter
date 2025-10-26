@@ -2,61 +2,32 @@
 
 Aplikasi login sederhana dengan desain custom menggunakan Flutter dan Dart.
 
-## 📱 Fitur
-- ✅ Login UI dengan tema Teal
-- ✅ Font custom menggunakan Google Fonts (Poppins)
-- ✅ Validasi login
-- ✅ Navigasi ke halaman home
-- ✅ Tombol logout
-- ✅ Notifikasi error dengan SnackBar
+👥 Kontributor
+- Galih Rahayu (232101097)
+- Ihsan Mubarox (232101090)
+- Bayu Prasetyo (232101098)
+- Taufik Irfan Septian (232101095)
 
-## 📸 Screenshot
+✨ Fitur
+- Ikon user (Icons.person) sebagai ilustrasi login
+- Input TextField untuk username dan password
+- Tombol login berwarna biru dengan teks putih
+- Responsif dan mudah dimodifikasi
 
-### Login Page
-![Login Page](screenshots/login.png)
+📸 Screenshot
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/a712f808-3c28-4be2-9a4d-a3fe5335d9de" />
 
-### Home Page
-![Home Page](screenshots/home.png)
+📦 Struktur File lib/
 
-## 🚀 Cara Menjalankan
+└── main.dart
 
-1. Clone repository ini:
-```bash
-git clone https://github.com/galihr15/login-ui-flutter.git
-```
+🚀 Cara Menjalankan
 
-2. Masuk ke folder project:
-```bash
-cd login-ui-flutter
-```
+- Pastikan Flutter sudah terinstal di perangkat kamu.
+- Clone atau salin proyek ini.
+- Jalankan perintah berikut di terminal: flutter run
+  
+📌 Catatan
+Proyek ini hanya menampilkan UI login tanpa validasi atau koneksi backend.
 
-3. Install dependencies:
-```bash
-flutter pub get
-```
 
-4. Jalankan aplikasi:
-```bash
-flutter run
-```
-
-## 🔐 Kredensial Login
-- **Username**: admin
-- **Password**: 1234
-
-## 🛠️ Teknologi
-- Flutter
-- Dart
-- Google Fonts (Poppins)
-
-## 👥 Anggota Kelompok
-- Galih Rahayu
-- Ihsan Mubarox
-- Bayu Prasetyo
-- Taufik Irfan Septian
-
-## 📝 Tugas
-Tugas Pemrograman Mobile - Membuat Login UI Custom
-
----
-⭐ Jika bermanfaat, berikan star pada repository ini!
